@@ -1,0 +1,3 @@
+Erstellen des Suchens des Elements und das suchen das Elements Modularisieren im PasswordManager Klasse
+und das Ausgeben auf der Hauptseiten der App
+Docker istalllieren 
